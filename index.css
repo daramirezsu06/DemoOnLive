@@ -1,0 +1,12 @@
+.card-character {
+  border: solid 2px black;
+  padding: 10px;
+  margin: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 25px;
+}
